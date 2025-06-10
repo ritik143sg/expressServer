@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./crud/index.js",
+    "start": "nodemon ./E_commerce/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
